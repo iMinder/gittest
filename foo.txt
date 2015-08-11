@@ -1,3 +1,4 @@
 revert 1
 revert 2
 edit foo
+newfeature add line to foo.txt
